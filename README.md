@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Devansh Amdavadwala</h1>
 <h3 align="center">A passionate Android developer from India</h3>
