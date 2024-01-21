@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devenvoy&label=Profile%20views&color=0e75b6&style=flat" alt="devenvoy" /> </p>
 
-- 🌱 I’m currently learning **Android Development , Kotlin , Firebase**
+- 🌱 I’m currently learning **Application Development , Android , Kotlin , Flutter , Firebase , etc..**
 
 - 👨‍💻 All of my projects are available at [https://devenvoy.github.io/myportfolio.github.io/](https://devenvoy.github.io/myportfolio.github.io/)
-
-- 📝 I regularly write articles on [-](-)
 
 - 💬 Ask me about **Kotlin , Android Development**
 
@@ -16,7 +14,7 @@
 
 - 📄 Know about my experiences [-](-)
 
-- ⚡ Fun fact **I can make great UI/UX**
+[comment]: <> (- ⚡ Fun fact **I can make great UI/UX**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
