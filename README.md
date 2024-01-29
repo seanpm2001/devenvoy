@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Application Development , Android , Kotlin , Flutter , Firebase , etc..**
 
-- 👨‍💻 All of my projects are available at [https://devenvoy.github.io/myportfolio.github.io/](https://devenvoy.github.io/myportfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://devenvoy.github.io/myportfolio.github.io/](https://devenvoy.github.io/my_portfolio/)
 
 - 💬 Ask me about **Kotlin , Android Development**
 
