@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devenvoy/devenvoy/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/devenvoy/devenvoy/blob/output/github-contribution-grid-snake.svg)
 
 ###
